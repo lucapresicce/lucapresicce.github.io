@@ -14,7 +14,7 @@ During my studies I had various work experiences: a curricular internship taken 
 
 ---
 permalink: /
-title: "A brief description"
+title: "A brief"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
