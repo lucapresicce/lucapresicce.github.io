@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Personal page"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,25 +9,22 @@ redirect_from:
 ---
 About me
 ======
+I'm a PhD student in Statistics at the University of Milan-Bicocca and currently I'm involved in reasearch topics cencerning Spatial & Bayesian statistics, but I'm also interested in Statistical learning & R programming. 
 
-PhD student in Statistics at the University of Milan-Bicocca, where I received the MSc in Statistical and Economic Sciences with honors. Previously I obtained the BSc in Statistical Sciences with honors from the University of Bologna.
+Moreover, during my studies I had various work experiences: a curricular internship taken at a branch of the Remax real estate group in the province of Varese as Corporate and Data analyst (2018), an internship at Rapelli SA in Ticino (CH) as Data Analyst (2019) and finally an internship as Security Architect & Data Analyst at CyberGON (2021).
 
-During my studies I had various work experiences: a curricular internship taken at a branch of the Remax real estate group in the province of Varese as Corporate and Data analyst (2018), an internship at Rapelli SA in Ticino (CH) as Data Analyst (2019) and finally an internship as Security Architect & Data Analyst at CyberGON (2021).
+Thanks to the union of all these experiences I have developed a strong passion for all statistics fields, both theoretical and applied, and I hope one day to be able to make a significant contribution.
+
+Now you can browse this portal for any details on my experiences, publications and research topics, but for all other information, question and collaboration I invite you to contact me on my social channels!
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Ph.D in Statistics, Università degli studi di Milano-Bicocca (2021-now) 
+  curret research: *Spatial statistics*
+* MSc. in Statistics & Data Science, Università degli studi di Milano-Bicocca (2019-2021)
+  thesis: *Models for spatial network data with measurement error in covariates: a
+  Bayesian approach with INLA for road accidents*
+  grade: *110 cum laude*
+* BSc. in Statistics & Economics, Università di Bologna (2016-2019)
+  grade: *110 cum laude*
+  thesis: *Structural models for the analysis of Italian employment rate*
