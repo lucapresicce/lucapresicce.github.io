@@ -8,5 +8,5 @@ date: 2021-11-01
 location: "Milano, Italia"
 ---
 
-**Tutoring**
+**Tutoring** <b/>
 I'm one tutor of the course in Statistics 2 for the BSc in Statistical & Economics Sciences. In this role, I'm helping the full professor with the exams survelliance & alumn relationship.  
