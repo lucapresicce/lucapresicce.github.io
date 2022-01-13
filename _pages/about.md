@@ -23,8 +23,8 @@ Education
   curret research: *Spatial statistics*
 * MSc. in Statistics & Data Science, Università degli studi di Milano-Bicocca (2019-2021)<br />
   thesis: *Models for spatial network data with measurement error in covariates: a
-  Bayesian approach with INLA for road accidents*
+  Bayesian approach with INLA for road accidents*<br />
   grade: *110 cum laude*
 * BSc. in Statistics & Economics, Università di Bologna (2016-2019)<br />
+  thesis: *Structural models for the analysis of Italian employment rate*<br />
   grade: *110 cum laude*
-  thesis: *Structural models for the analysis of Italian employment rate*
