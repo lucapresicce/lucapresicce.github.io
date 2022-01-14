@@ -1,7 +1,7 @@
 ---
 title: 'Lost in Banach Spaces'
 date: 2022-01-10
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2022/01/LostInBanachSpaces/
 tags:
   - Math & Stats
   - Mathematical Analysis
