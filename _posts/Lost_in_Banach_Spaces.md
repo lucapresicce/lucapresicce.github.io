@@ -9,5 +9,5 @@ tags:
   - Functional Analysis
 ---
 
-Why is we studied Stefan's legacy from Statistics?
+Why is studied Stefan's legacy from Statisticians?
 ------
