@@ -13,7 +13,7 @@ tags:
 
 Why is studied Stefan's legacy from Statisticians?
 ------
-This is the question that I make to myself since I started my journey in the PhD program.
+This is the question that I ask to myself since I started my journey in the PhD program.
 
 Before start talking, let me introduce myself and tell you something about what I do.
 I'm Luca Presicce, as you can trivially read everywhere in this webiste, and from November 2021 I've start the PhD program in Statistics, in the University of Milan-Bicocca.
