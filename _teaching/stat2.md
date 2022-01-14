@@ -7,6 +7,8 @@ venue: "<br/>Università degli studi di Milano-Bicocca,<br/>Department of Econom
 date: 2021-11-01
 location: "Milano, Italia"
 ---
+Enter for teaching experience information
+
 Tutoring acivity
 ------
 Since November 2021, I'm one tutor of the course in Statistics 2 for the BSc in Statistical & Economics Sciences. In this role, I'm helping the full professor with the exams survelliance & relationships with the students.  
