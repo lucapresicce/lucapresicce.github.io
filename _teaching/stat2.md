@@ -1,9 +1,9 @@
 ---
-title: "Tutor of Statistics 2"
+title: "Tutor of Statistics II"
 collection: teaching
-type: "BSc in Statistical & Economics Sciences"
+type: "BSc in Statistical & Economics Sciences "
 permalink: /teaching/stat2
-venue: "Università degli studi di Milano-Bicocca, <br/> <i>Department of Economics, Management and Statistics<i/>"
+venue: "<br/> Università degli studi di Milano-Bicocca, <br/> <i>Department of Economics, Management and Statistics<i/>"
 date: 2021-11-01
 location: "Milano, Italia"
 ---
