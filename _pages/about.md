@@ -11,7 +11,7 @@ About me
 ======
 I'm a PhD student in Statistics at the University of Milan-Bicocca and currently I'm involved in reasearch topics cencerning **Spatial** & **Bayesian statistics**, but I'm also interested in **Statistical learning** & **R programming**. 
 
-Moreover, during my studies I had various work experiences: a curricular internship taken at a branch of the REMAX group **(Real Estate)** in the province of Varese as Corporate and Data analyst (2018), an internship at Rapelli SA **(Food & Beverage)** in Ticino (CH) as Data Analyst (2019) and finally an internship at CyberGON **(Cyber Security)** as Security Architect & Data Analyst (2021).
+Moreover, during my studies I had various work experiences: a curricular internship taken at a branch of the REMAX group **(Real Estate)** in the province of Varese as **Corporate & Data analyst** (2018), an internship at Rapelli SA **(Food & Beverage)** in Ticino (CH) as **Data Analyst** (2019) and finally an internship at CyberGON **(Cyber Security)** as **Security Architect & Data Scientist** (2021).
 
 Thanks to the union of all these experiences I have developed a strong passion for all statistics fields, both theoretical and applied, and I hope one day to be able to make a significant contribution.
 
