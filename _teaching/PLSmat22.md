@@ -4,7 +4,7 @@ collection: teaching
 type: "<i>Play and Chance<i/>"
 permalink: /teaching/stat2
 venue: "<br/>Università degli studi di Milano-Bicocca,<br/>Department of of Mathematics and Applications"
-date: 2022
+date: 2022-03-01
 location: "Milano, Italia"
 ---
 Teaching acivity
