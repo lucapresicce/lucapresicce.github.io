@@ -28,3 +28,8 @@ Education
 * **BSc. in Statistics & Economics**, *University of Bologna* (2016-2019)<br />
   *thesis:* Structural models for the analysis of Italian employment rate<br />
   *grade:* 110 cum laude
+
+School
+======
+* **Lake Como school of advanced studies**, *Como, 2-6 May 2022*<br />
+  **RSFD** - *Robust Statistics: Foundations and recent Developments*
