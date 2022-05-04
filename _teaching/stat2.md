@@ -10,4 +10,4 @@ location: "Milano, Italia"
 Tutoring acivity
 ------
 I'm one tutor of the course in Statistics 2 for the BSc in Statistical & Economics Sciences. In this role, I'm helping the full professor with the exams survelliance & relationships with the students.<br/>
-*Since 11-2021*
+*from 01-11-2021*
