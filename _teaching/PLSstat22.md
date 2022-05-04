@@ -7,6 +7,9 @@ venue: "<br/>Università degli studi di Milano-Bicocca,<br/>Department of Econom
 date: 2022-02-01
 location: "Milano, Italia"
 ---
+Enter for teaching experience information
+
+
 Teaching activity
 ------
 The purpose of the teaching activity was to introduce high school students to the world and Statistics through some case studies on regression and classification tasks.<br/>
