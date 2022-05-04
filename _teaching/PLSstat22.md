@@ -1,5 +1,5 @@
 ---
-title: "PLS - Scientific Degree Plan - Laboratory activities"
+title: "<i>PLS - Scientific Degree Plan - Laboratory activities<i/>"
 collection: teaching
 type: "<i>First steps of Data Science. A hackathon to solve a problem by mastering Statistics<i/>"
 permalink: /teaching/stat2
