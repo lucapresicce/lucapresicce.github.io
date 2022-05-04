@@ -4,7 +4,7 @@ collection: teaching
 type: "<i>BSc in Statistical & Economics Sciences<i/>"
 permalink: /teaching/stat2
 venue: "<br/>Università degli studi di Milano-Bicocca,<br/>Department of Economics, Management and Statistics"
-date: 2021-11-01
+date: ""
 location: "Milano, Italia"
 ---
 Tutoring acivity
