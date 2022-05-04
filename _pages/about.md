@@ -19,12 +19,12 @@ Now you can browse this portal for any details on my experiences, publications a
 
 Education
 ======
-* **Ph.D in Statistics**, *Università degli studi di Milano-Bicocca* (2021-now)<br />
+* **Ph.D in Statistics**, *University of Milan-Bicocca* (2021-now)<br />
   *current research:* Spatial statistics
-* **MSc. in Statistics & Data Science**, *Università degli studi di Milano-Bicocca* (2019-2021)<br />
+* **MSc. in Statistics & Data Science**, *University of Milan-Bicocca* (2019-2021)<br />
   *thesis:* Models for spatial network data with measurement error in covariates: a
   Bayesian approach with INLA for road accidents<br />
   *grade:* 110 cum laude
-* **BSc. in Statistics & Economics**, *Università di Bologna* (2016-2019)<br />
+* **BSc. in Statistics & Economics**, *University of Bologna* (2016-2019)<br />
   *thesis:* Structural models for the analysis of Italian employment rate<br />
   *grade:* 110 cum laude
