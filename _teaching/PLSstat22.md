@@ -10,4 +10,4 @@ location: "Milano, Italia"
 Teaching acivity
 ------
 The purpose of the teaching activity was to introduce high school students to the world and Statistics through some case studies on regression and classification tasks.<br/>
- *from 01-02/2022 to 31-05-2022*
+ *from 01-02-2022 to 31-05-2022*
