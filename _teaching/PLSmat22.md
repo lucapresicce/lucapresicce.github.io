@@ -9,6 +9,7 @@ location: "Milano, Italia"
 ---
 Enter for teaching experience information
 
+
 Teaching acivity
 ------
 The main activity were draw up and analize the survey before, and after, a series of formative meetings on mathematics and probability.
