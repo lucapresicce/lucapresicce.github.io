@@ -29,7 +29,12 @@ Education
   *thesis:* Structural models for the analysis of Italian employment rate<br />
   *grade:* 110 cum laude
 
-School
+Academic Experience
 ======
-* **Lake Como school of advanced studies**, *Como, 2-6 May 2022*<br />
-  **RSFD** - *Robust Statistics: Foundations and recent Developments*
+* **In Conference proceedings**
+  Andrea Gilardi, Riccardo Borgoni, **Luca Presicce** and Jorge Mateu<br />
+  *Measurement error models on spatial network lattices: car crashes in Leeds*<br />
+  In CLADAG 2021 BOOK OF ABSTRACTS AND SHORT PAPERS, pages 348–351. Firenze University Press, 2021.
+* **Schools**
+  **Lake Como school of advanced studies**, *Como, 2-6 May 2022*<br />
+  **RSFD** - *Robust Statistics: Foundations and recent Developments.*
