@@ -4,7 +4,7 @@ collection: teaching
 type: "<i>First steps of Data Science. A hackathon to solve a problem by mastering Statistics<i/>"
 permalink: /teaching/stat2
 venue: "<br/>Università degli studi di Milano-Bicocca,<br/>Department of Economics, Management and Statistics"
-date: ""
+date: 2022
 location: "Milano, Italia"
 ---
 Teaching acivity
