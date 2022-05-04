@@ -31,10 +31,10 @@ Education
 
 Academic Experience
 ======
-* **In Conference proceedings**
-  Andrea Gilardi, Riccardo Borgoni, **Luca Presicce** and Jorge Mateu
-  *Measurement error models on spatial network lattices: car crashes in Leeds*
+* **In Conference proceedings**<br />
+  Andrea Gilardi, Riccardo Borgoni, **Luca Presicce** and Jorge Mateu<br />
+  *Measurement error models on spatial network lattices: car crashes in Leeds*<br />
   In CLADAG 2021 BOOK OF ABSTRACTS AND SHORT PAPERS, pages 348–351. Firenze University Press, 2021.<br />
-* **Schools**
-  **Lake Como school of advanced studies**, *Como, 2-6 May 2022*
+* **Schools**<br />
+  **Lake Como school of advanced studies**, *Como, 2-6 May 2022*<br />
   **RSFD** - *Robust Statistics: Foundations and recent Developments.*<br />
