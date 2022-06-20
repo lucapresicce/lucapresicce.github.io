@@ -13,5 +13,5 @@ Enter for teaching experience information
 
 Teaching activity
 ------
-The purpose of the teaching activity was to introduce high school students to the world and Statistics through some case studies on origin and develpment of humans. The lecture was focused on a shiny app taht represents the diffusion of a mosquito species on planet and how this is a consequence of the human population growth. tasks.<br/>
+The purpose of the teaching activity was to introduce high school students to the world and Statistics through some case studies on origin and develpment of humans. The lecture was focused on a shiny app taht represents the diffusion of a mosquito species on planet and how this is a consequence of the human population growth.<br/>
  *from 01-06-2022 to 01-07-2022*
