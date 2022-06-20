@@ -1,5 +1,5 @@
 ---
-title: "Tutor of Statistics II"
+title: "Statistics II - Tutor & Lecture activities"
 collection: teaching
 type: "<i>BSc in Statistical & Economics Sciences<i/>"
 permalink: /teaching/stat2
