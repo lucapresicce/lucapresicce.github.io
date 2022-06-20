@@ -1,5 +1,5 @@
 ---
-title: "PLS - Scientific Degree Plan"
+title: "PLS - Scientific Degree Plan - Analysis activities"
 collection: teaching
 type: "<i>Play and Chance<i/>"
 permalink: /teaching/PLSmat22
