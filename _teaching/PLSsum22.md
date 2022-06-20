@@ -2,7 +2,7 @@
 title: "PLS - Scientific Degree Plan - Lecture activities"
 collection: teaching
 type: "<i>Anthropocene: man's footprint on earth<i/>"
-permalink: /teaching/PLSsum22
+permalink: /teaching/PLSsum22.md
 venue: "<br/>Università degli studi di Milano-Bicocca,<br/>Department of Economics, Management and Statistics"
 date: 2022-06-15
 location: "Milano, Italia"
