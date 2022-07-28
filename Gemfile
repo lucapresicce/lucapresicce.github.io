@@ -17,10 +17,10 @@ gem "github-pages", group: :jekyll_plugins
 # gem "jekyll"
 
 # for the theme 
-# gem "minimal-mistakes-jekyll"
-gem "jekyll-include-cache", group: :jekyll_plugins
+gem "minimal-mistakes-jekyll"
+#cgem "jekyll-include-cache", group: :jekyll_plugins
 
-bundle
+# bundle
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
