@@ -17,8 +17,8 @@ gem "github-pages", group: :jekyll_plugins
 # gem "jekyll"
 
 # for the theme 
-gem "minimal-mistakes-jekyll"
-# gem "jekyll-include-cache", group: :jekyll_plugins
+# gem "minimal-mistakes-jekyll"
+gem "jekyll-include-cache", group: :jekyll_plugins
 
 bundle
 
