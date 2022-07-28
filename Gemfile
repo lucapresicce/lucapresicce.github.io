@@ -16,6 +16,12 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
+# for the theme 
+gem "minimal-mistakes-jekyll"
+# gem "jekyll-include-cache", group: :jekyll_plugins
+
+bundle
+
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
