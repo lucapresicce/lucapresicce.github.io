@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 <!---
+teaching.html
+
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
