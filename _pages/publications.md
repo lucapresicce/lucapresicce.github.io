@@ -19,6 +19,6 @@ Submitted and Working papers
 
 In Conference Proceedings
 ======
-{% for post in site.conference reversed %}
+{% for post in site.publications.conference reversed %}
   {% include archive-single.html %}
 {% endfor %}
