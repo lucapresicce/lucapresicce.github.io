@@ -7,7 +7,7 @@ author_profile: true
 
 ## Poster Presentations
 
-<sub>**ISBA World Meeting**, Montréal, Canada | 26th June - 1st July 2022 | [download poster here](https://arxiv.org/abs/2201.02394)
+<sub>**ISBA World Meeting**, Montréal, Canada | 26th June - 1st July 2022 | [download poster here](https://lucapresicce.github.io/files/Poster_ISBA2022.pdf)
 
 <!---
 ## Invited Talks
