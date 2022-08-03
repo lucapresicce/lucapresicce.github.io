@@ -19,22 +19,39 @@ Now you can browse this portal for any details on my experiences, publications a
 
 Education
 ======
-* **Ph.D in Statistics**, *University of Milan-Bicocca* (2021-now)<br />
-  *current research:* Spatial statistics
-* **MSc. in Statistics & Data Science**, *University of Milan-Bicocca* (2019-2021)<br />
+* **Ph.D. in Statistics**, *University of Milano-Bicocca* (2021 - Present)<br />
+  *research interest:* Spatial Statistics, Bayesian Statistics, Hierarchical Models. 
+* **M.Sc. in Statistics & Data Science**, *University of Milano-Bicocca* (2019 - 2021)<br />
   *thesis:* Models for spatial network data with measurement error in covariates: a
   Bayesian approach with INLA for road accidents<br />
   *grade:* 110 cum laude
-* **BSc. in Statistics & Economics**, *University of Bologna* (2016-2019)<br />
+* **B.Sc. in Statistics & Economics**, *University of Bologna* (2016 - 2019)<br />
   *thesis:* Structural models for the analysis of Italian employment rate<br />
   *grade:* 110 cum laude
 
-Academic Experience
+Service to Profession
 ======
-* **In Conference proceedings**<br />
-  Andrea Gilardi, Riccardo Borgoni, **Luca Presicce** and Jorge Mateu<br />
-  *Measurement error models on spatial network lattices: car crashes in Leeds*<br />
-  In CLADAG 2021 BOOK OF ABSTRACTS AND SHORT PAPERS, pages 348–351. Firenze University Press, 2021.<br />
+* **Position in Academic Societies**<br />
+  *Students representative of the MSc in Statistical & Economics Sciences, 2019 - 2021*
+  Department of Economics, Management and Statistics , University of Milano–Bicocca.  
+* **Membership**<br />
+  *International Society for Bayesian Analysis (ISBA)*;<br />
+  *j–ISBA.*
+
+Summer Schools and Workshops
+======
 * **Schools**<br />
   *Lake Como school of advanced studies, Como, 2-6 May 2022*<br />
   *RSFD - Robust Statistics: Foundations and recent Developments.*<br />
+  
+Working Experience
+======
+* **Data Scientist**<br />
+  <i>Research in AI for IT security<i/>, May - August 2021<br />
+  Cybergon - powered by Elmec Informatica Spa, Brunello (VA).  
+* **Data Analyst**<br />
+  <i> Analysis on production, sales and quality control<i/>, July 2019<br />
+  Rapelli SA, Stabio (CH)   
+* **Corporate Analyst**<br />
+  <i> Business analysis<i/>, June - August 2018<br />
+  REMAX altoverbano, Germignaga (VA).
