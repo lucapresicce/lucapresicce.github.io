@@ -11,6 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
+*Submitted and Working papers*
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+*In Conference Proceedings*
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
