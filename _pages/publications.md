@@ -9,7 +9,7 @@ author_profile: true
 
 ## Submitted and Working papers
 
-<sub>Gilardi A., Borgoni R., <b>Presicce L.</b>, Mateu J. (2022). &quot;Measurement Error Models for Spatial Network Lattice Data: Analysis of Car Crashes in Leeds&quot; <i>arXiv:2201.02394</i>. 1(1). [paper](https://arxiv.org/abs/2201.02394) | Submitted (under major review) in: <i>Journal of the Royal Statistical Society: Series A<i/> </sub>
+<sub>Gilardi A., Borgoni R., <b>Presicce L.</b>, Mateu J. (2022). &quot;Measurement Error Models for Spatial Network Lattice Data: Analysis of Car Crashes in Leeds&quot; <i>arXiv:2201.02394</i>. 1(1). | [download paper here](https://arxiv.org/abs/2201.02394) | Submitted (under major review) in: <i>Journal of the Royal Statistical Society: Series A<i/> </sub>
 
 ## In Conference Proceedings
 
