@@ -9,7 +9,7 @@ redirect_from:
 ---
 About me
 ======
-I'm a PhD student in Statistics at the University of Milan-Bicocca and currently I'm involved in reasearch topics cencerning **Spatial** & **Bayesian statistics**, but I'm also interested in **Statistical learning** & **R programming**. 
+I'm a PhD student in Statistics at the University of Milan-Bicocca and currently I'm involved in reasearch topics cencerning **Spatial** & **Nonparametric Bayesian Statistics**, but I'm also interested in **Statistical Learning** & **R programming**. 
 
 Moreover, during my studies I had various work experiences: a curricular internship taken at a branch of the REMAX group **(Real Estate)** in the province of Varese as **Corporate & Data analyst** (2018), an internship at Rapelli SA **(Food & Beverage)** in Ticino (CH) as **Data Analyst** (2019) and finally an internship at CyberGON **(Cyber Security)** as **Security Architect & Data Scientist** (2021).
 
@@ -20,7 +20,7 @@ Now you can browse this portal for any details on my experiences, publications a
 Education
 ======
 * **Ph.D. in Statistics**, *University of Milano-Bicocca* (2021 - Present)<br />
-  *research interest:* Spatial Statistics, Bayesian Statistics, Hierarchical Models. 
+  *research interest:* Spatial Statistics, Nonparametric Bayesian Statistics, Hierarchical Models.
 * **M.Sc. in Statistics & Data Science**, *University of Milano-Bicocca* (2019 - 2021)<br />
   *thesis:* Models for spatial network data with measurement error in covariates: a
   Bayesian approach with INLA for road accidents<br />
