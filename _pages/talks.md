@@ -8,6 +8,8 @@ author_profile: true
 ## Poster Presentations
 
 <sub>**ISBA World Meeting**, Montréal, Canada | 26th June - 1st July 2022 | [download poster here](https://lucapresicce.github.io/files/Poster_ISBA2022.pdf)
+ 
+<sub>**Bayes Comp 2023**, Levi, Finland | 15th March - 17th March 2023 | [download poster here](https://lucapresicce.github.io/files/Poster_BAYESCOMP2023.pdf)
 
 <!---
 ## Invited Talks
