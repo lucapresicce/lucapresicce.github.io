@@ -36,7 +36,8 @@ Service to Profession
   Department of Economics, Management and Statistics , University of Milano–Bicocca.  
 * **Membership**<br />
   *International Society for Bayesian Analysis (ISBA)*;<br />
-  *j–ISBA.*
+  *j–ISBA*;<br />
+  *Società Italiana Statistica (SIS).*
 
 Summer Schools and Workshops
 ======
