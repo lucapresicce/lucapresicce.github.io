@@ -15,7 +15,7 @@ Moreover, during my studies I had various work experiences: a curricular interns
 
 Thanks to the union of all these experiences I have developed a strong passion for all statistics fields, both theoretical and applied, and I hope one day to be able to make a significant contribution.
 
-Now you can browse this portal for any details on my experiences, publications and research topics, but for all other information, question and collaboration I invite you to [download my updated CV](http://lucapresicce.github.io/files/Curriculum.pdf) & **contact me on my social channels**!
+Now you can browse this portal for any details on my experiences, publications and research topics, but for all other information, question and collaboration I invite you to [download my updated CV](http://lucapresicce.github.io/files/Research_Curriculum.pdf) & **contact me on my social channels**!
 
 Education
 ======
