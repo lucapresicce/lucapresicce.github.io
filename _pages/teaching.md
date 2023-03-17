@@ -22,8 +22,12 @@ teaching.html
   
 ## As Lecturer
 
-<sub>**PLS - Scientific Degree Plan - Laboratory**, High schools, University of Milano–Bicocca. | *February - May 2022*</sub>
+<sub>**PLS - Scientific Degree Plan - Lectures & Laboratory**, High schools, University of Milano–Bicocca. | *February - May 2022*</sub>
 
 <sub>**PLS - Scientific Degree Plan - Laboratory**, High schools, University of Milano–Bicocca. | *March - May 2022*</sub>
   
-<sub>**PLS - Scientific Degree Plan - Lectures**, High schools, University of Milano–Bicocca. | *June - July 2022*</sub>
+<sub>**PLS - Scientific Degree Plan - Lectures & Laborarory**, High schools, University of Milano–Bicocca. | *June - July 2022*</sub>
+  
+<sub>**PLS - Scientific Degree Plan - Lectures & Laboratory**, High schools, University of Milano–Bicocca. | *February - May 2023*</sub>
+
+<sub>**PNRR - Orientation Program - Lectures & Laboratory**, High schools, University of Milano–Bicocca. | *February - March 2023*</sub>  
