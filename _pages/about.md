@@ -29,6 +29,10 @@ Education
   *thesis:* Structural models for the analysis of Italian employment rate<br />
   *grade:* 110 cum laude
 
+Awards
+======
+* **Travel award**, *Bayes comp*, March 2023 <br />
+
 Service to Profession
 ======
 * **Position in Academic Societies**<br />
