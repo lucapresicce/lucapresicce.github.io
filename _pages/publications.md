@@ -7,9 +7,13 @@ author_profile: true
 
 #### You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=ib6pbCMAAAAJ&hl=it)
 
+## Journal Articles
+
+<sub>Gilardi A., Borgoni R., <b>Presicce L.</b>, Mateu J. (2023). &quot;Measurement Error Models for Spatial Network Lattice Data: Analysis of Car Crashes in Leeds&quot; <i>arXiv:2201.02394</i>. 1(1). | [download paper here](https://arxiv.org/abs/2201.02394) | Accepted in: <i>Journal of the Royal Statistical Society: Series A<i/>
+
 ## Submitted and Working papers
 
-<sub>Gilardi A., Borgoni R., <b>Presicce L.</b>, Mateu J. (2022). &quot;Measurement Error Models for Spatial Network Lattice Data: Analysis of Car Crashes in Leeds&quot; <i>arXiv:2201.02394</i>. 1(1). | [download paper here](https://arxiv.org/abs/2201.02394) | Submitted (under review) in: <i>Journal of the Royal Statistical Society: Series A<i/>
+<sub><b>Presicce L.</b>, Rigon T., Aliverti E. (2023). &quot;Bias-reduction methods for Poisson regression models&quot; | Submitted (under review) in: <i>SIS 2023 Conference Proceedings<i/>
 
 ## In Conference Proceedings
 
