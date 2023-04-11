@@ -46,9 +46,14 @@ Service to Profession
 Summer Schools and Workshops
 ======
 * **Schools**<br />
-  *Lake Como school of advanced studies, Como, 2-6 May 2022*<br />
+  *Lake Como school of advanced studies, Como, May 2-6, 2022*<br />
   *RSFD - Robust Statistics: Foundations and recent Developments.*<br />
-  
+* **Workshops**<br />
+  * *Workshop at Collegio carlo Alberto, Torino, February 24, 2023*<br />
+    *Club-PMx2 - CLUstering: Bayesian Partition Models for Precise Medicine.*<br />
+  * *Workshop at Bocconi University, Milano, April 5-7, 2023*<br />
+    *Theory for Scalable, Modern Statistical Methods.*<br />
+    
 Working Experience
 ======
 * **Data Scientist**<br />
