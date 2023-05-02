@@ -5,19 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-#### You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=ib6pbCMAAAAJ&hl=it)
+#### You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=ib6pbCMAAAAJ&hl=it) or [ORCID profile](https://orcid.org/0009-0005-7062-3523)!
 
 ## Journal Articles
 
-<sub>Gilardi A., Borgoni R., <b>Presicce L.</b>, Mateu J. (2023). &quot;Measurement Error Models for Spatial Network Lattice Data: Analysis of Car Crashes in Leeds&quot; <i>arXiv:2201.02394</i>. 1(1). | [download paper here](https://arxiv.org/abs/2201.02394) | Accepted in: <i>Journal of the Royal Statistical Society: Series A<i/>
+<sub>Gilardi A., Borgoni R., <b>Presicce L.</b>, Mateu J. &quot;Measurement Error Models for Spatial Network Lattice Data: Analysis of Car Crashes in Leeds &quot; <i>Journal of the Royal Statistical Society Series A: Statistics in Society<i/>, 2023, qnad057. | [download paper here](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnad057/7146735?login=true)
 
 ## Submitted and Working papers
 
-<sub><b>Presicce L.</b>, Rigon T., Aliverti E. (2023). &quot;Bias-reduction methods for Poisson regression models&quot; | Submitted (under review) in: <i>SIS 2023 Conference Proceedings<i/>
+<sub><b>Presicce L.</b>, Rigon T., Aliverti E. &quot;Bias-reduction methods for Poisson regression models&quot; | Submitted (under review) in: <i>SIS 2023 Conference Proceedings<i/>
 
 ## In Conference Proceedings
 
-<sub>Gilardi A., Borgoni R., <b>Presicce L.</b>, Mateu J. (2022). &quot;Measurement Error Models for Spatial Network Lattice Data: Analysis of Car Crashes in Leeds&quot; in: <i>CLADAG 2021 book of abstracts and short papers<i/>, pages 348–351.
+<sub>Gilardi A., Borgoni R., <b>Presicce L.</b>, Mateu J. &quot;Measurement Error Models for Spatial Network Lattice Data: Analysis of Car Crashes in Leeds&quot; in: <i>CLADAG 2021 book of abstracts and short papers<i/>, pages 348–351.
 
 <!---  
 [paper](https://www.aclweb.org/anthology/2021.hackashop-1.19.pdf) |
