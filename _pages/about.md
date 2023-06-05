@@ -9,9 +9,9 @@ redirect_from:
 ---
 About me
 ======
-I'm a Ph.D. student in Statistics at the University of Milan-Bicocca, and since May 2023 a Visiting Researcher at the University of California Los Angeles (UCLA) under the guidance of Prof.Sudipto Banerjee.
+I'm a Ph.D. student in Statistics at the **University of Milan-Bicocca**, and since May 2023 a Visiting Researcher at the **University of California Los Angeles (UCLA)** under the guidance of **Prof.Sudipto Banerjee**.
 
-Currently I'm involved in reasearch topics concerning **Spatial** & **Nonparametric Bayesian Statistics**. In particular, I'm working on models for **massive & multivariate geo-referenced data**, but I'm also interested in **Statistical Learning** & **R programming**. 
+Currently I'm involved in reasearch topics concerning **Spatial** & **Nonparametric Bayesian Statistics**. In particular, I'm working on models for **Massive** & **Multivariate Geo-referenced data**, but I'm also interested in **Statistical Learning** & **R programming**. 
 
 Moreover, during my studies I had various work experiences: a curricular internship taken at a branch of the REMAX group **(Real Estate)** in the province of Varese as **Corporate & Data analyst** (2018), an internship at Rapelli SA **(Food & Beverage)** in Ticino (CH) as **Data Analyst** (2019) and finally an internship at CyberGON **(Cyber Security)** as **Security Architect & Data Scientist** (2021).
 
