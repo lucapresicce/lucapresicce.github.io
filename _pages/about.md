@@ -9,11 +9,13 @@ redirect_from:
 ---
 About me
 ======
-I'm a PhD student in Statistics at the University of Milan-Bicocca and currently I'm involved in reasearch topics cencerning **Spatial** & **Nonparametric Bayesian Statistics**, but I'm also interested in **Statistical Learning** & **R programming**. 
+I'm a Ph.D. student in Statistics at the University of Milan-Bicocca, and since May 2023 a Visiting Researcher at the University of California Los Angeles (UCLA) under the guidance of Prof.Sudipto Banerjee.
+
+Currently I'm involved in reasearch topics concerning **Spatial** & **Nonparametric Bayesian Statistics**. In particular, I'm working on models for **massive & multivariate geo-referenced data**, but I'm also interested in **Statistical Learning** & **R programming**. 
 
 Moreover, during my studies I had various work experiences: a curricular internship taken at a branch of the REMAX group **(Real Estate)** in the province of Varese as **Corporate & Data analyst** (2018), an internship at Rapelli SA **(Food & Beverage)** in Ticino (CH) as **Data Analyst** (2019) and finally an internship at CyberGON **(Cyber Security)** as **Security Architect & Data Scientist** (2021).
 
-Thanks to the union of all these experiences I have developed a strong passion for all statistics fields, both theoretical and applied, and I hope one day to be able to make a significant contribution.
+Thanks to the union of all these experiences I have developed a strong passion for all statistics fields, both theoretical and methodological, and I hope one day to be able to make a significant contribution.
 
 Now you can browse this portal for any details on my experiences, publications and research topics, but for all other information, question and collaboration I invite you to [download my updated CV](http://lucapresicce.github.io/files/Research_Curriculum.pdf) & **contact me on my social channels**!
 
