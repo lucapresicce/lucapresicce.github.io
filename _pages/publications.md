@@ -11,11 +11,13 @@ author_profile: true
 
 <sub>Gilardi A., Borgoni R., <b>Presicce L.</b>, Mateu J. &quot; Measurement Error Models for Spatial Network Lattice Data: Analysis of Car Crashes in Leeds &quot; <i>Journal of the Royal Statistical Society Series A: Statistics in Society<i/>, 2023, qnad057. | [download paper here](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnad057/7146735?login=true)
 
+<!---
 ## Submitted and Working papers
 
-<sub><b>Presicce L.</b>, Banerjee S. &quot; Stacking of exact Bayesian models for multivariate spatial data; | in: <i>Arxiv preprint<i/>.
+<sub><b>Presicce L.</b>, Banerjee S. &quot; Stacking of exact Bayesian models for multivariate spatial data&quot; | in: <i>Arxiv preprint<i/>.
 
-<sub><b>Presicce L.</b>, Banerjee S. &quot; Accelerated meta-kriging for massive spatial datasets; | in: <i>Arxiv preprint<i/>.
+<sub><b>Presicce L.</b>, Banerjee S. &quot; Accelerated meta-kriging for massive spatial datasets&quot; | in: <i>Arxiv preprint<i/>.
+--->
 
 ## In Conference Proceedings
 
