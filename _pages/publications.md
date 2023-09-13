@@ -9,15 +9,20 @@ author_profile: true
 
 ## Journal Articles
 
-<sub>Gilardi A., Borgoni R., <b>Presicce L.</b>, Mateu J. &quot;Measurement Error Models for Spatial Network Lattice Data: Analysis of Car Crashes in Leeds &quot; <i>Journal of the Royal Statistical Society Series A: Statistics in Society<i/>, 2023, qnad057. | [download paper here](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnad057/7146735?login=true)
+<sub>Gilardi A., Borgoni R., <b>Presicce L.</b>, Mateu J. &quot; Measurement Error Models for Spatial Network Lattice Data: Analysis of Car Crashes in Leeds &quot; <i>Journal of the Royal Statistical Society Series A: Statistics in Society<i/>, 2023, qnad057. | [download paper here](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnad057/7146735?login=true)
 
 ## Submitted and Working papers
 
-<sub><b>Presicce L.</b>, Rigon T., Aliverti E. &quot;Bias-reduction methods for Poisson regression models&quot; | Submitted (under review) in: <i>SIS 2023 Conference Proceedings<i/>
+<sub><b>Presicce L.</b>, Banerjee S. &quot; Stacking of exact Bayesian models for multivariate spatial data; | in: <i>Arxiv preprint<i/>.
+
+<sub><b>Presicce L.</b>, Banerjee S. &quot; Accelerated meta-kriging for massive spatial datasets; | in: <i>Arxiv preprint<i/>.
 
 ## In Conference Proceedings
 
-<sub>Gilardi A., Borgoni R., <b>Presicce L.</b>, Mateu J. &quot;Measurement Error Models for Spatial Network Lattice Data: Car Crashes in Leeds&quot; in: <i>CLADAG 2021 book of abstracts and short papers<i/>, pages 348–351.
+<sub>Gilardi A., Borgoni R., <b>Presicce L.</b>, Mateu J. &quot; Measurement Error Models for Spatial Network Lattice Data: Car Crashes in Leeds&quot; in: <i>CLADAG 2021 book of abstracts and short papers<i/>, pages 348–351.
+
+<sub><b>Presicce L.</b>, Rigon T., Aliverti E. &quot;Bias-reduction methods for Poisson regression models&quot;  in: <i>SIS 2023 book of short papers<i/>, pages 908–912.
+
 
 <!---  
 [paper](https://www.aclweb.org/anthology/2021.hackashop-1.19.pdf) |
