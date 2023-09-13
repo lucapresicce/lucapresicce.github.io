@@ -5,11 +5,17 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Contributed Presentations
+
+<sub>**SIS 2023**, Ancona, Italia | 21th June - 23th June 2023 | [download slides here](https://lucapresicce.github.io/files/Slides_SIS2023.pdf)</sub>
+
 ## Poster Presentations
 
 <sub>**ISBA World Meeting**, Montréal, Canada | 26th June - 1st July 2022 | [download poster here](https://lucapresicce.github.io/files/Poster_ISBA2022.pdf)</sub> 
  
 <sub>**Bayes Comp 2023**, Levi, Finland | 15th March - 17th March 2023 | [download poster here](https://lucapresicce.github.io/files/Poster_BAYESCOMP2023.pdf)</sub> 
+
+<sub>**SIS 2023**, Ancona, Italia | 21th June - 23th June 2023 | [download poster here](https://lucapresicce.github.io/files/Poster_SIS2023.pdf)</sub>
 
 <!---
 ## Invited Talks
