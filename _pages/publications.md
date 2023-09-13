@@ -9,7 +9,7 @@ author_profile: true
 
 ## Journal Articles
 
-<sub>Gilardi A., Borgoni R., <b>Presicce L.</b>, Mateu J. &quot; Measurement Error Models for Spatial Network Lattice Data: Analysis of Car Crashes in Leeds &quot; <i>Journal of the Royal Statistical Society Series A: Statistics in Society<i/>, 2023, qnad057. | [download paper here](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnad057/7146735?login=true)
+<sub>Gilardi A., Borgoni R., <b>Presicce L.</b>, Mateu J. &quot; Measurement Error Models for Spatial Network Lattice Data: Analysis of Car Crashes in Leeds &quot; <i>Journal of the Royal Statistical Society Series A: Statistics in Society<i/>, volume 186, pages 313–334, 04 2023. | [download paper here](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnad057/7146735?login=true)
 
 <!---
 ## Submitted and Working papers
@@ -21,9 +21,9 @@ author_profile: true
 
 ## In Conference Proceedings
 
-<sub>Gilardi A., Borgoni R., <b>Presicce L.</b>, Mateu J. &quot; Measurement Error Models for Spatial Network Lattice Data: Car Crashes in Leeds&quot; in: <i>CLADAG 2021 book of abstracts and short papers<i/>, pages 348–351.
+<sub>Gilardi A., Borgoni R., <b>Presicce L.</b>, Mateu J. &quot; Measurement Error Models for Spatial Network Lattice Data: Car Crashes in Leeds&quot; in: <i>CLADAG 2021 book of abstracts and short papers<i/>, pages 348–351. | [download paper here](https://media.fupress.com/files/pdf/24/7254/19407)
 
-<sub><b>Presicce L.</b>, Rigon T., Aliverti E. &quot;Bias-reduction methods for Poisson regression models&quot;  in: <i>SIS 2023 book of short papers<i/>, pages 908–912.
+<sub><b>Presicce L.</b>, Rigon T., Aliverti E. &quot;Bias-reduction methods for Poisson regression models&quot;  in: <i>SIS 2023 book of short papers<i/>, pages 908–912.  | [download paper here](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/bozza-book-compresso.pdf)
 
 
 <!---  
