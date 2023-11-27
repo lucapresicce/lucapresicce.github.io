@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Contributed Presentations
+## Contributed Talks
 
 <sub>**SIS 2023**, Ancona, Italia | 21th June - 23th June 2023 | [download slides here](https://lucapresicce.github.io/files/Slides_SIS2023.pdf)</sub>
 
