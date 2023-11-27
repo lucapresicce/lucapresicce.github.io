@@ -34,6 +34,7 @@ Education
 Awards
 ======
 * **Travel award**, *Bayes comp*, March 2023 <br />
+* **Best Objective Prediction**, *Stats under the Stars 6 - SIS2023*, June 2023 <br />
 
 Service to Profession
 ======
