@@ -7,14 +7,10 @@ author_profile: true
 
 #### You can also find my software on my [Github](https://github.com/lucapresicce)!
 
-<br> </br>
-
-# R packages
-
 ## ASMK 
 This R package provides fast Rcpp implementations for the principal functions to perform accelerated spatial meta-kriging. For further details: 
-  * <i>Reference work :</i> <b>Presicce L.</b>, Banerjee S. &quot; Accelerated meta-kriging for massive spatial datasets &quot; | in: <i>Arxiv preprint</i>.
-  * <i>GitHub repository :</i> [lucapresicce/ASMK](https://github.com/lucapresicce/ASMK).
+ *  <i>Reference work :</i> <b>Presicce L.</b>, Banerjee S. &quot; Accelerated meta-kriging for massive spatial datasets &quot; | in: <i>Arxiv preprint</i>.
+ *  <i>GitHub repository :</i> [lucapresicce/ASMK](https://github.com/lucapresicce/ASMK).
 
 
 <!---  
