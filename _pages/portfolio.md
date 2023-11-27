@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-#### You can also find my softwares on my [Github](https://github.com/lucapresicce)!
+#### You can also find my software on my [Github](https://github.com/lucapresicce)!
 
 # R packages
 
