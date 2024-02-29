@@ -13,7 +13,9 @@ author_profile: true
 
 ## Submitted and Working papers
 
-<sub><b>Presicce L.</b>, Banerjee S. &quot; Accelerated meta-kriging for massive spatial datasets &quot; | in: <i>Arxiv preprint<i/>.
+<sub><b>Presicce L.</b>, Banerjee S. &quot; Accelerated meta-kriging for massive spatial datasets &quot; | in: <i>BAYSM 2024<i/>.
+
+<sub><b>Presicce L.</b>, Banerjee S. &quot; Bayesian meta-learning approach for feasible large spatial analysis &quot; | in: <i>SIS 2024<i/>.
 
 <!---
 
