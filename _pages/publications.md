@@ -17,6 +17,8 @@ author_profile: true
 
 <sub><b>Presicce L.</b>, Banerjee S. &quot; Bayesian meta-learning approach for feasible large spatial analysis &quot; | in: <i>SIS 2024<i/>.
 
+<sub><b>Presicce L.</b>, Banerjee S. &quot; Bayesian Transfer Learning and Divide-Conquer Models for Massive Spatial Datasets &quot; | in: <i>Arxiv preprint<i/>.
+
 <!---
 
 <sub><b>Presicce L.</b>, Banerjee S. &quot; Stacking of exact Bayesian models for multivariate spatial data&quot; | in: <i>Arxiv preprint<i/>.
