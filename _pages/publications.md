@@ -13,11 +13,7 @@ author_profile: true
 
 ## Submitted and Working papers
 
-<sub><b>Presicce L.</b>, Banerjee S. &quot; Accelerated meta-kriging for massive spatial datasets &quot; | in: <i>BAYSM 2024<i/>.
-
-<sub><b>Presicce L.</b>, Banerjee S. &quot; Bayesian meta-learning approach for feasible large spatial analysis &quot; | in: <i>SIS 2024<i/>.
-
-<sub><b>Presicce L.</b>, Banerjee S. &quot; Bayesian Transfer Learning and Divide-Conquer Models for Massive Spatial Datasets &quot; | in: <i>Arxiv preprint<i/>.
+<sub><b>Presicce L.</b>, Banerjee S. &quot; Building Artificially Intelligent Geostatistical Systems Using Bayesian Predictive Stacking &quot; | in: <i>Arxiv preprint<i/>.
 
 <!---
 
@@ -30,6 +26,10 @@ author_profile: true
 <sub>Gilardi A., Borgoni R., <b>Presicce L.</b>, Mateu J. &quot; Measurement Error Models for Spatial Network Lattice Data: Car Crashes in Leeds&quot; in: <i>CLADAG 2021 book of abstracts and short papers<i/>, pages 348–351. | [download paper here](https://media.fupress.com/files/pdf/24/7254/19407)
 
 <sub><b>Presicce L.</b>, Rigon T., Aliverti E. &quot;Bias-reduction methods for Poisson regression models&quot;  in: <i>SIS 2023 book of short papers<i/>, pages 908–912.  | [download paper here](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/bozza-book-compresso.pdf)
+
+<sub><b>Presicce L.</b>, Banerjee S. &quot; Accelerated meta-kriging for massive spatial datasets &quot; | in: <i>BAYSM 2024<i/>.
+
+<sub><b>Presicce L.</b>, Banerjee S. &quot; Bayesian meta-learning approach for feasible large spatial analysis &quot; | in: <i>SIS 2024<i/>.
 
 
 <!---  
