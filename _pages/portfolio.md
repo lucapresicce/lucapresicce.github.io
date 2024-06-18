@@ -7,11 +7,13 @@ author_profile: true
 
 #### You can also find my software on my [Github](https://github.com/lucapresicce)!
 
-## ASMK 
-This R package provides fast Rcpp implementations for the principal functions to perform accelerated spatial meta-kriging. For further details: 
- *  <i>Reference work :</i> [Presicce L., Banerjee S. &quot; Bayesian Transfer Learning and Divide-Conquer Models for Massive Spatial Datasets &quot;]([https://lucapresicce.github.io/publications/](https://github.com/lucapresicce/Bayesian-Transfer-Learning-and-Divide-Conquer-Models)).
- *  <i>GitHub repository :</i> [lucapresicce/ASMK](https://github.com/lucapresicce/ASMK).
+## spBPS 
+An Rcpp-based package to perform accelerated spatial random field models by Bayesian predictive stacking. For further details: 
+ *  <i>GitHub repository :</i> [lucapresicce/spBPS](https://github.com/lucapresicce/spBPS).
 
+<!---  
+ *  <i>Reference work :</i> [Presicce L., Banerjee S. &quot; Building Artificially Intelligent Geostatistical Systems Using Bayesian Predictive Stacking &quot;](https://lucapresicce.github.io/publications/).
+--->
 
 <!---  
 [paper](https://www.aclweb.org/anthology/2021.hackashop-1.19.pdf) |
