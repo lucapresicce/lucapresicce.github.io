@@ -9,6 +9,8 @@ author_profile: true
 
 <sub>**SIS 2023**, Ancona, Italia | 21th June - 23th June 2023 | [download slides here](https://lucapresicce.github.io/files/Slides_SIS2023.pdf)</sub>
 
+<sub>**SIS 2024**, Bari, Italia | 17th June - 20th June 2024 | [download slides here](https://lucapresicce.github.io/files/Slides_SIS2024.pdf)</sub>
+
 ## Poster Presentations
 
 <sub>**ISBA World Meeting**, Montréal, Canada | 26th June - 1st July 2022 | [download poster here](https://lucapresicce.github.io/files/Poster_ISBA2022.pdf)</sub> 
