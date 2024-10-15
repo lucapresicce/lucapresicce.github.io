@@ -13,7 +13,7 @@ author_profile: true
 
 ## Submitted and Working papers
 
-<sub><b>Presicce L.</b>, Banerjee S. &quot; Bayesian Transfer Learning for Artificially Intelligent Geospatial Systems: A Predictive Stacking Approach &quot; | in: <i>Arxiv preprint<i/>.
+<sub><b>Presicce L.</b>, Banerjee S. &quot; Bayesian Transfer Learning for Artificially Intelligent Geospatial Systems: A Predictive Stacking Approach &quot; | in: <i>Arxiv preprint<i/>. | [download paper here](https://arxiv.org/abs/2410.09504)
 
 <!---
 
