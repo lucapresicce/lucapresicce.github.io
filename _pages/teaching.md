@@ -17,7 +17,9 @@ teaching.html
 
 ## As Teaching Assistant
 
-<sub>**Statistics II - Tutor & Lecture activities**, B.Sc. in Statistical & Economics Sciences, University of Milano–Bicocca. | *November 2021 - Present* 
+<sub>**Statistics II - Tutor & Lecture activities**, B.Sc. in Statistical & Economics Sciences, University of Milano–Bicocca, Milan, Italy. | *November 2021 - November 2023* 
+
+<sub>**Statistics Learning - Tutor & Lecture activities**, M.Sc. in Data Analytics for Business, University Cattolica del Sacro Cuore, Milan, Italy. | *January 2025 - Present* 
   
   
 ## As Lecturer
@@ -31,3 +33,8 @@ teaching.html
 <sub>**PLS - Scientific Degree Plan - Lectures & Laboratory**, High schools, University of Milano–Bicocca. | *February - May 2023*</sub>
 
 <sub>**PNRR - Orientation Program - Lectures & Laboratory**, High schools, University of Milano–Bicocca. | *February - March 2023*</sub>  
+
+<sub>**PLS - Scientific Degree Plan - Lectures & Laboratory**, High schools, University of Milano–Bicocca. | *February - May 2025*</sub>
+
+<sub>**PNRR - Orientation Program - Lectures & Laboratory**, High schools, University of Milano–Bicocca. | *September 2024 - May 2025*</sub>  
+
