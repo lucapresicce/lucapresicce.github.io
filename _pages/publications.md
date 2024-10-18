@@ -18,6 +18,7 @@ author_profile: true
 <!---
 
 <sub><b>Presicce L.</b>, Banerjee S. &quot; Stacking of exact Bayesian models for multivariate spatial data&quot; | in: <i>Arxiv preprint<i/>.
+<sub><b>Presicce L.</b>, Banerjee S. &quot; Accelerated meta-kriging for massive spatial datasets &quot; | in: <i>BAYSM 2024<i/>.
 
 --->
 
@@ -27,9 +28,11 @@ author_profile: true
 
 <sub><b>Presicce L.</b>, Rigon T., Aliverti E. &quot;Bias-reduction methods for Poisson regression models&quot;  in: <i>SIS 2023 book of short papers<i/>, pages 908–912.  | [download paper here](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/bozza-book-compresso.pdf)
 
-<sub><b>Presicce L.</b>, Banerjee S. &quot; Bayesian meta-learning approach for feasible large spatial analysis &quot; | in: <i>SIS 2024<i/>. | [download paper here]([https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/bozza-book-compresso.pdf](https://link.springer.com/book/9783031643453))
+<sub><b>Presicce L.</b>, Banerjee S. &quot; Bayesian meta-learning approach for feasible large spatial analysis &quot; | in: <i>SIS 2024<i/>. | [download paper here](https://www.springer.com/series/59900?srsltid=AfmBOor76fbVqj2-BxsM_TtVTmpOt75PLdU_oR16IMs7bJCvtvL9sBNS)
 
-<sub><b>Presicce L.</b>, Banerjee S. &quot; Accelerated meta-kriging for massive spatial datasets &quot; | in: <i>BAYSM 2024<i/>.
+<!---  
+
+--->
 
 
 <!---  
