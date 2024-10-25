@@ -7,7 +7,7 @@ author_profile: true
 
 #### You can also find my software on my [Github](https://github.com/lucapresicce)!
 
-## [spBPS](https://github.com/lucapresicce/spBPS) | Bayesian Predictive Stacking for Scalable Geospatial Transfer Learning
+##  [CRAN: Package spBPS](https://cran.r-project.org/web/packages/spBPS/index.html) | Bayesian Predictive Stacking for Scalable Geospatial Transfer Learning
 Provides functions for Bayesian Predictive Stacking within the Bayesian transfer learning framework for geospatial artificial systems, as introduced in "Bayesian Transfer Learning for Artificially Intelligent Geospatial Systems: A Predictive Stacking Approach" by [Presicce and Banerjee (2024)](https://arxiv.org/abs/2410.09504). This methodology enables efficient Bayesian geostatistical modeling, utilizing predictive stacking to improve inference across spatial datasets. The core functions leverage Rcpp-armadillo for high-performance computation, making the framework well-suited for large-scale spatial data analysis in parallel and distributed computing environments. Designed for scalability, it allows seamless application in computationally demanding scenarios. 
 
 <!---  
