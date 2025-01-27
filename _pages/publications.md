@@ -28,7 +28,7 @@ author_profile: true
 
 <sub><b>Presicce L.</b>, Rigon T., Aliverti E. &quot;Bias-reduction methods for Poisson regression models&quot;  in: <i>SIS 2023 book of short papers<i/>, pages 908–912.  | [download paper here](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/bozza-book-compresso.pdf)
 
-<sub><b>Presicce L.</b>, Banerjee S. &quot; Bayesian meta-learning approach for feasible large spatial analysis &quot; | in: <i>SIS 2024<i/>. | [download paper here](https://www.springer.com/series/59900?srsltid=AfmBOor76fbVqj2-BxsM_TtVTmpOt75PLdU_oR16IMs7bJCvtvL9sBNS)
+<sub><b>Presicce L.</b>, Banerjee S. &quot; Bayesian meta-learning approach for feasible large spatial analysis &quot; | in: <i>SIS 2024<i/>. | [download paper here](https://link.springer.com/book/10.1007/978-3-031-64447-4?sap-outbound-id=C6CAB5AD6906071C6910BF76E852E32CE5C429EB&utm_source=standard&utm_medium=email&utm_campaign=000_LAN36_0000019083_Book%20author%20congrats%20NEW&utm_content=EN_34155_20250125&mkt-key=7BC445286B551EDFB686D1785C19057B)
 
 <!---  
 
