@@ -7,17 +7,24 @@ author_profile: true
 
 ## Seminars
 
-<sub>**Karlsruhe Institute of Technology (KIT)**, Karlsruhe, Germany | 21st May 2025 | [download slides here]()</sub>
+<sub>**Karlsruhe Institute of Technology (KIT)**, Karlsruhe, Germany | 21st May 2025 | [slides in preparation]()</sub>
+
 
 ## Invited Talks
 
-<sub>**SIS 2025**, Genova, Italy | 16th June - 18th June 2025 | [download slides here]()</sub>
+<sub>**SIS 2025**, Genova, Italy | 16th June - 18th June 2025 | [slides in preparation]()</sub>
+
+<sub>**ISBA World Meeting 2026**, Nagoya, Japan | 28th June - 3st July 2026 | [slides in preparation]()</sub>
+
 
 ## Contributed Talks
 
 <sub>**SIS 2023**, Ancona, Italy | 21th June - 23th June 2023 | [download slides here](https://lucapresicce.github.io/files/Slides_SIS2023.pdf)</sub>
 
 <sub>**SIS 2024**, Bari, Italy | 17th June - 20th June 2024 | [download slides here](https://lucapresicce.github.io/files/Slides_SIS2024.pdf)</sub>
+
+<sub>**SIS 2025**, Genova, Italy | 16th June - 18th June 2025 | [slides in preparation]()</sub>
+
 
 ## Poster Presentations
 
@@ -30,6 +37,8 @@ author_profile: true
 <sub>**BAYSM 2024**, Venezia, Italy | 29th June - 30th June 2024 | [download poster here](https://lucapresicce.github.io/files/Poster_ISBA2024.pdf)</sub>
 
 <sub>**ISBA World Meeting 2024**, Venezia, Italy | 1st July - 7th July 2024 | [download poster here](https://lucapresicce.github.io/files/Poster_ISBA2024.pdf)</sub> 
+
+<sub>**BISP 2025**, Milano, Italy | 26th June - 28th May 2025 | [poster in preparation]()</sub>
 
 <!---
 ## Invited Talks
