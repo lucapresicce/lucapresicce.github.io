@@ -21,7 +21,7 @@ author_profile: true
 
 <sub><b>Presicce L.</b> | &quot; Enhancing Bayesian Distributed Learning with Spatially Adjusted Predictive Distributions &quot; | in: <i>Preparation<i/>.
 
-<sub><b>Presicce L.</b> | &quot; Variational Propagation for Exact Spatiotemporal Dynamic Modeling &quot; | in: <i>Preparation<i/>.
+<sub><b>Presicce L.</b>, Banerjee S. | &quot; Variational Propagation for Exact Spatiotemporal Dynamic Modeling &quot; | in: <i>Preparation<i/>.
 
 <!---
 
