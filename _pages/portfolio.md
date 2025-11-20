@@ -7,10 +7,26 @@ author_profile: true
 
 #### You can also find my software on my [Github](https://github.com/lucapresicce)!
 
-##  [CRAN: Package spBPS](https://cran.r-project.org/web/packages/spBPS/index.html) | Bayesian Predictive Stacking for Scalable Geospatial Transfer Learning <img src="https://github.com/lucapresicce/lucapresicce.github.io/blob/master/images/sticker_spBPS_bw.png" width="200">
+<div style="display:flex; align-items:center; gap:15px;">
+  <img src="https://raw.githubusercontent.com/lucapresicce/lucapresicce.github.io/master/images/sticker_spBPS_bw.png"
+       width="120">
+
+  <h2 style="margin:0;">
+    <a href="https://cran.r-project.org/web/packages/spBPS/index.html">CRAN: Package spBPS</a> |
+    Bayesian Predictive Stacking for Scalable Geospatial Transfer Learning
+  </h2>
+</div>
 Provides functions for Bayesian Predictive Stacking within the Bayesian transfer learning framework for geospatial artificial systems, as introduced in "Bayesian Transfer Learning for Artificially Intelligent Geospatial Systems: A Predictive Stacking Approach" by [Presicce and Banerjee (2024)](https://arxiv.org/abs/2410.09504). This methodology enables efficient Bayesian geostatistical modeling, utilizing predictive stacking to improve inference across spatial datasets. The core functions leverage Rcpp-armadillo for high-performance computation, making the framework well-suited for large-scale spatial data analysis in parallel and distributed computing environments. Designed for scalability, it allows seamless application in computationally demanding scenarios. 
 
-##  [Package spFFBS](https://github.com/lucapresicce/spFFBS) | Spatiotemporal Propagation for Multivariate Bayesian Dynamic Learning <img src="https://github.com/lucapresicce/lucapresicce.github.io/blob/master/images/sticker_spFFBS_bw.png" width="200">
+<div style="display:flex; align-items:center; gap:15px;">
+  <img src="https://raw.githubusercontent.com/lucapresicce/lucapresicce.github.io/master/images/sticker_spFFBS_bw.png"
+       width="120">
+
+  <h2 style="margin:0;">
+    <a href="https://github.com/lucapresicce/spFFBS">Package spFFBS</a> |
+    Spatiotemporal Propagation for Multivariate Bayesian Dynamic Learning
+  </h2>
+</div>
 Provides the principal implementation of the forward filtering backward sampling (FFBS) algorithm, with Dynamic Bayesian predictive stacking (DYNBPS) integration for multivariate spatiotemporal models, as introduced in "Adaptive Markovian Spatiotemporal Transfer Learning in Multivariate Bayesian Modeling" by [Presicce and Banerjee (2025+)](https://lucapresicce.github.io/publications/). This methodology enables efficient Bayesian multivariate spatiotemporal modeling, utilizing innovative dynamic predictive stacking to improve inference across multivariate time series of spatial datasets. The core functions leverage Rcpp-armadillo for high-performance computation, making the framework well-suited for large-scale spatiotemporal data analysis in parallel and distributed computing environments. Designed for scalability, it allows seamless application in computationally demanding scenarios. 
 
 <!---  
