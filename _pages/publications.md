@@ -27,11 +27,11 @@ author_profile: true
 
 ## Submitted and Working papers
 
-<sub><b>Presicce L.</b>, Banerjee S. | [Bayesian Transfer Learning for Artificially Intelligent Geospatial Systems: A Predictive Stacking Approach](https://arxiv.org/abs/2410.09504) | in: <i>Arxiv preprint (<b>Reviewed & Resubmitted</b>)</i>.
+<sub><b>Presicce L.</b>, Banerjee S. | [Bayesian Transfer Learning for Artificially Intelligent Geospatial Systems: A Predictive Stacking Approach](https://arxiv.org/abs/2410.09504) | in: <i>Arxiv preprint (<b>Under Review</b>)</i>.
 
-<sub><b>Presicce L.</b>, Banerjee S. | &quot; Variational Spatiotemporal Propagation for Multivariate Bayesian Dynamic Learning &quot; | in: <i>Arxiv preprint (<b>Forthcoming</b>)</i>. <!-- (Submitted - JRSSSB) -->
+<sub><b>Presicce L.</b>, Banerjee S. | &quot; [Adaptive Markovian Spatiotemporal Transfer Learning in Multivariate Bayesian Modeling](https://arxiv.org/abs/2602.08544) &quot; | in: <i>Arxiv preprint (<b>Under Review</b>)</i>. <!-- (Submitted - JCGS) -->
 
-<sub><b>Presicce L.</b>, Banerjee S. | &quot; Adaptive Markovian Spatiotemporal Transfer Learning in Multivariate Bayesian Modeling &quot; | in: <i>Arxiv preprint (<b>Forthcoming</b>)</i>. <!-- (Submitted - AoAS) -->
+<sub><b>Presicce L.</b>, Banerjee S. | &quot; Variational Spatiotemporal Propagation for Multivariate Bayesian Dynamic Learning &quot; | in: <i>Preparation (<b>Forthcoming</b>)</i>. <!-- (Submitted - JRSSSB) -->
 
 <sub><b>Presicce L.</b>, Castelletti F. | &quot; Uncovering Dependences in Distributed Multivariate Models via Bayesian Graphical Learning &quot; | in: <i>Preparation</i>.
 
