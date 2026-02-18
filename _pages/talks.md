@@ -9,7 +9,7 @@ author_profile: true
 
 <sub>**Karlsruhe Institute of Technology (KIT)**, Karlsruhe, Germany | 21st May 2025 | [download slides here](https://lucapresicce.github.io/files/Slides_KIT2025.pdf)</sub>
 
-<sub>**John Hopkins University (JHU)**, Online | 18th February 2026 | download slides here </sub>
+<sub>**John Hopkins University (JHU)**, Online | 18th February 2026 | [download slides here](https://lucapresicce.github.io/files/Slides_JHU2026.pdf)</sub>
 
 
 ## Invited Talks
