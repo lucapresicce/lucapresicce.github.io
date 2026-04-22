@@ -29,7 +29,7 @@ Provides functions for Bayesian Predictive Stacking within the Bayesian transfer
        width="250">
 
   <h1 style="margin:0;">
-    <a href="https://github.com/lucapresicce/spFFBS">spFFBS</a> |
+    <a href="https://cran.r-project.org/web/packages/spFFBS/index.html">spFFBS</a> |
     Spatiotemporal Propagation for Multivariate Bayesian Dynamic Learning
   </h1>
 </div>
