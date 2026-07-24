@@ -18,6 +18,8 @@ author_profile: true
 
 <sub>**ISBA World Meeting 2026**, Nagoya, Japan | 28th June - 3st July 2026 | [slides in preparation]()</sub>
 
+<sub>**Bayes Comp 2027**, Texas, USA | 18th May - 20th May 2027 | [slides in preparation]()</sub>
+
 
 ## Contributed Talks
 
