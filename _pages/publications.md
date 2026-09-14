@@ -11,12 +11,14 @@ author_profile: true
 
 <sub>Gilardi A., Borgoni R., <b>Presicce L.</b>, Mateu J. | [Measurement Error Models for Spatial Network Lattice Data: Analysis of Car Crashes in Leeds](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnad057/7146735?login=true) | in: <i><b>Journal of the Royal Statistical Society Series A: Statistics in Society</b></i>, volume 186, pages 313–334, 04 2023.
 
-<sub><b>Presicce L.</b>, Banerjee S. | [Bayesian Transfer Learning for Artificially Intelligent Geospatial Systems: A Predictive Stacking Approach](https://arxiv.org/abs/2410.09504) | in: <i><b>Journal of Machine Learning Research</b> (to appear)</i>, volume 27, pages 1–60, 07 2026.
+<sub><b>Presicce L.</b>, Banerjee S. | [Bayesian Transfer Learning for Artificially Intelligent Geospatial Systems: A Predictive Stacking Approach](https://jmlr.org/papers/v27/26-0307.html) | in: <i><b>Journal of Machine Learning Research</b></i>, volume 27(196), pages 1–60, 2026.
 
 
 ## Submitted and Working papers
 
 <sub><b>Presicce L.</b>, Banerjee S. | &quot; [Dynamic Bayesian Predictive Stacking via Markovian Spatiotemporal Propagation](https://arxiv.org/abs/2602.08544) &quot; | in: <i>Arxiv preprint (<b>Under Review</b>)</i>. <!-- (Submitted - JCGS) -->
+
+<sub>Chin A., <b>Presicce L.</b>, Nishimura A. | &quot; Smoothing Out Sticking Points: Sampling from Discrete-Continuous Mixtures with Dynamical Monte Carlo by Mapping Discrete Mass into a Latent Universe &quot; | in: <i>Arxiv preprint (<b>Under Review</b>)</i>. <!-- (Submitted - EJS) -->
 
 <sub><b>Presicce L.</b>, Chin A., Nishimura A. | &quot; Sticky Dynamical Monte Carlo for Structured Bayesian Variable Selection: with Application to Exploration of Gene-by-Environment Interactions &quot; | in: <i>Preparation (<b>Forthcoming</b>)</i>. <!-- (Submitted - JRSSSB) -->
 
