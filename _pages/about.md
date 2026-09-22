@@ -33,6 +33,11 @@ Thanks to the union of all these experiences, I have developed a strong passion 
 Now you can browse this portal for any details on my experiences, publications, and research topics, but for all other information, questions, and collaboration I invite you to [download my updated CV](http://lucapresicce.github.io/files/Research_Curriculum.pdf) & **contact me on my social channels**!
 -->
 
+Current Position
+======
+* **Postdoctoral Fellow**, *Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health* (2026 - Present)<br />
+  *Research topics:* Bayesian Forensics, Genentics Data, Computational Statistics <br />
+
 Education
 ======
 * **Ph.D. in Statistics**, *University of Milano-Bicocca* (2021 - 2026)<br />
