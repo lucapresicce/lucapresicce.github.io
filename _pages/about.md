@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
+Beyond the Evidence
 ======
 I am a Postdoctoral Fellow in the [**Department of Biostatistics**](https://publichealth.jhu.edu/departments/biostatistics) at the **Johns Hopkins Bloomberg School of Public Health** **(JHU)**, working with **Prof. Aki Nishimura** and **Prof. Michael Rosenblum**.
 
@@ -19,7 +19,7 @@ During my studies I had various work experiences: a curricular internship taken 
 
 Through these academic and professional experiences, I have developed a strong interest in the theoretical, methodological, and computational aspects of statistics. Throughout my Ph.D. journey, I have focused on developing statistical methods for complex data problems while building international research collaborations and working with researchers across different areas of statistics.
 
-You can now browse this portal for any details on my research, publications, and projects. For additional information, questions, or collaboration opportunities, I invite you to [download my updated CV](http://lucapresicce.github.io/files/Research_Curriculum.pdf) & **contact me on my social channels**!
+You can now browse this portal for any details on my research, publications, and projects. For additional information, questions, or collaboration opportunities, I invite you to [**download my updated CV**](http://lucapresicce.github.io/files/Research_Curriculum.pdf) & **contact me on my social channels**!
 
 <!--
 I'm a Ph.D. student in Statistics at the **University of Milan-Bicocca**, and since May 2023 a Visiting Researcher at the **University of California Los Angeles (UCLA)** under the guidance of **Prof. Sudipto Banerjee**.
