@@ -9,7 +9,7 @@ redirect_from:
 ---
 About me
 ======
-I am a Postdoctoral Fellow in the **Department of Biostatistics** at the **Johns Hopkins Bloomberg School of Public Health** **(JHU)**, working with **Prof. Aki Nishimura** and **Prof. Michael Rosenblum**.
+I am a Postdoctoral Fellow in the [**Department of Biostatistics**](https://publichealth.jhu.edu/departments/biostatistics) at the **Johns Hopkins Bloomberg School of Public Health** **(JHU)**, working with **Prof. Aki Nishimura** and **Prof. Michael Rosenblum**.
 
 I obtained my Ph.D. in Statistics from the **University of Milano-Bicocca** in 2026, and I was a Visiting Graduate Researcher at the **University of California, Los Angeles (UCLA)** under the guidance of **Prof. Sudipto Banerjee**, with whom I continue to collaborate.
 
