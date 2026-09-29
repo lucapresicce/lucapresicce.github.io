@@ -90,10 +90,10 @@ analytics:
 # Site Author
 author:
   name             : "Luca Presicce"
-  avatar           : "LucaPresiccePicture.pdf"
+  avatar           : "profile5.jpg"
   bio              : "Postdoctoral Fellow in Biostatistics @JHU"
   location         : "Baltimore, MD, USA"
-  employer         : "Johns Hopkins Bloomberg School of Public Health"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ib6pbCMAAAAJ&hl=it"
   email            : "lpresic1@jh.edu"
