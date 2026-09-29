@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Luca Presicce"
 title_separator          : "-"
 name                     : &name "Luca Presicce"
-description              : &description "PhD student in Statistics @Unimib"
+description              : &description "Postdoctoral Fellow in Biostatistics @JHU"
 url                      : https://lucapresicce.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lucapresicce/lucapresicce.github.io"
@@ -90,13 +90,13 @@ analytics:
 # Site Author
 author:
   name             : "Luca Presicce"
-  avatar           : "profile4.png"
-  bio              : "PhD student in Statistics @Unimib"
-  location         : "Milano, Italia"
-  employer         :
+  avatar           : "LucaPresiccePicture.pdf"
+  bio              : "Postdoctoral Fellow in Biostatistics @JHU"
+  location         : "Baltimore, MD, USA"
+  employer         : "Johns Hopkins Bloomberg School of Public Health"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ib6pbCMAAAAJ&hl=it"
-  email            : "l.presicce@campus.unimib.it"
+  email            : "lpresic1@jh.edu"
   researchgate     : "https://www.researchgate.net/profile/Luca-Presicce"
   uri              :
   bitbucket        :
@@ -264,7 +264,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Europe/Rome # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
